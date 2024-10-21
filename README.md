@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi I'm Anthony Roman 👋
 
-<!--
-**ptroman/ptroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💼 **Transportation Security Officer** with an interest in **cybersecurity**.
+- 🎓 Working on a **B.S. in Information Systems Security** from the University of Illinois.
+- 🚀 Passionate about **tech and startups**.
+- 🏋️‍♂️ **Fitness enthusiast** sharing supplement reviews and workouts on TikTok.
 
-Here are some ideas to get you started:
+## 🌱 Current Learning Goals
+- 🖥️ Improving my **GitHub** and version control skills.
+- 📱 Exploring new **front-end development** tools.
+- 🕹️ Developing new gaming-related projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+- **Languages**: Python, HTML, CSS, JavaScript
+- **Tools**: Git, GitHub, VS Code
+- **Platforms**: Linux, Windows
+
+## 🐾 Fun Facts
+- 🐕 Proud owner of a pitbull named **Sparrow** and a cat named **Penny**.
+- 🎮 I’m a huge fan of **sci-fi** and **video games**.
+
+## 📫 Connect with Me
+- **LinkedIn**: [www.linkedin.com/in/anthony-roman9896](#)
+- **TikTok**: [ptroman365](#)
+- **GitHub**: [github.com/ptroman](#)
